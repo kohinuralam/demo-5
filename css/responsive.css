@@ -1,0 +1,250 @@
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+
+    .footer-item ul li a,
+    .footer-item p {
+        font-size: 13px;
+    }
+
+}
+
+/*
+for-tablet-screen-start
+*/
+
+@media screen and (min-width: 767px) and (max-width: 991px) {
+
+    .menu-item ul li a {
+        display: none;
+    }
+
+    .menu-btn {
+        display: block;
+    }
+
+    .honeymon-content h5 {
+        font-size: 19px;
+    }
+
+     .tour-right {
+        padding: 0 0 0 35px;
+    }
+
+    .tour-right-item-1 h2 {
+      padding: 54px 0 0 0;
+    }
+
+    .tour-right-item-2 h5 {
+      padding: 70px 0 0 0;
+    }
+
+     .tour-left {
+        padding: 0 0 0 35px;
+    } 
+
+    .footer-item ul li a,
+    .footer-item p {
+      font-size: 13px;
+    }
+
+}
+
+
+/*
+for-mobil-screen-start
+*/
+@media screen and (max-width: 767px) {
+
+    .navigation-area {
+       padding: 20px 0;
+    }
+
+    .menu-item ul li a {
+        display: none;
+    }
+
+    .menu-btn {
+        display: block;
+    }
+
+    .hero-area {
+        padding: 100px 0 33px 0;
+            
+    }
+
+    .hotel-item {
+        max-width: 290px;
+    }
+
+    .home,
+    .hotel,
+    .plan {
+        padding: 8px; 
+    }
+
+    .home p,
+    .hotel p,
+    .plan p {
+        font-size: 10px;
+        
+    } 
+
+    .search-form {
+        padding: 15px 15px 20px 15px;
+    }
+
+    .input-item-left {
+        width: 100%;   
+    }
+
+    .input-item-right {
+        width: 100%;
+        margin: 25px 0 0 0;
+        
+    }
+
+    .form-title h2 {
+        font-size: 25px;
+        padding: 15px 0 0 0;
+       
+    }
+
+    .input-date-1 {
+        width: 100%;
+    }
+
+    .input-date-2 {
+        width: 100%;
+        margin: 20px 0 0 0;
+    }
+
+    .input-wrapper input[type=submit] {
+        font-size: 15px;
+        padding: 18px 23px 18px 20px;
+        margin: 36px 0 0 0;
+
+    }
+
+    .honeymon-area {
+        padding: 0 0 35px 0;
+        
+    }
+
+    .honeymon-content {
+      text-align: center;
+    }
+
+    #honeymon-content {
+        text-align: center;
+    }
+
+    .honeymon-content h5 {
+        font-size: 19px;
+        padding: 41px 0 0 0;
+    }
+
+
+    .hotel-title-area {
+       padding: 0 0 12px 0;
+    }
+
+    .hotel-title-content h2 {
+        font-size: 27px;
+        padding: 20px 0 0 0;
+    }
+
+    .hotel-item-area {
+        padding: 0 0 40px 0;
+    }
+
+    .tour-left {
+      padding: 0 0 0 38px;
+      
+    }
+    .tour-left-item-1 h5 {
+        font-size: 15px;
+        padding: 70px 0 0 0;
+    }
+
+    .tour-left-item-1 h2 {
+        font-size: 37px;
+    }
+
+    .tour-left-item-2 {
+        margin: 0 0 0 21px;
+    }
+
+    .tour-left-item-2 h5 {
+        font-size: 15px;
+        padding: 70px 0 0 0;
+    }
+
+    .tour-left-item-2 h2 {
+        font-size: 37px;
+        margin: 10px 0 0 0;
+    }
+
+    .tour-left p {
+        font-size: 14px;
+        margin: 5px 0 0 0;
+    }
+
+    .tour-right {
+        padding: 0 0 0 35px;
+    }
+
+    .tour-right-item-1 h2 {
+        font-size: 37px;
+        padding: 38px 0 0 0;
+    }
+
+    .tour-right-item-1 h5 {
+        font-size: 14px;
+      
+    }
+
+    .tour-right-item-1 p {
+        font-size: 14px;
+        margin: 20px 0 0 0;
+    }
+
+    .tour-right-item-2 {
+        margin: 0 0 0 10px;
+    }
+
+    .tour-right-item-2 h5 {
+        font-size: 15px;
+        padding: 65px 0 0 0;
+       
+    }
+
+    .tour-right-item-2 h2 {
+        font-size: 35px;
+       
+    }
+
+    .gellary-title h2 {
+        font-size: 40px;
+        padding: 35px 0 0 0;
+        
+    }
+
+    .gellary-area {
+        padding: 0 0 40px 0;
+    }
+
+
+    .footer-logo img {
+         padding: 49px 0 0 0;
+    }
+
+    .footer-item h2 {
+        padding: 45px 0 0 0;
+    }
+
+    .footer-content p {
+      font-size: 12px;
+    }
+
+
+}
+
